@@ -11,4 +11,4 @@ The **Market Trade Processor** comprises three components:
 * [Message Frontend](https://github.com/darraghenright/message-frontend) - frontend for viewing Trade Message data
 * [Message Processor](https://github.com/darraghenright/message-processor) - simple layer for processing and serving Trade Message data
 
-Please follow the links to each for more details.
+Please follow the link to each for code and information.
